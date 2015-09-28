@@ -1,0 +1,19 @@
+			Code Book
+
+* id   
+       Unique identifier for 30 particiants     
+* Activity 
+        activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) performed
+	by participants
+* tBodyAcc-mean()-X 
+	Mean value of the tBodyAcc-mean signal in the X direction
+* tBodyAcc-mean()-Y 
+	Mean value of the tBodyAcc-mean signal in the Y direction
+* tBodyAcc-mean()-Z
+	Mean value of the tBodyAcc-mean signal in the Z direction
+* tBodyAcc-std()-X  
+	standard deviation value of the tBodyAcc-mean signal in the X direction
+* tBodyAcc-std()-Y 
+	standard deviation value of the tBodyAcc-mean signal in the Y direction 
+* tBodyAcc-std()-Z
+	standard deviation value of the tBodyAcc-mean signal in the Z direction
